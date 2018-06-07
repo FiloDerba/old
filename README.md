@@ -11,4 +11,6 @@ this repository contains my assignments
 
 [Graded_assignment 2](https://github.com/FiloDerba/assignments/blob/master/Graded_assignment_2.ipynb)
 
-[Exam_june_7-2018](https://github.com/FiloDerba/assignments/blob/master/exam_june_7_2018.ipynb)
+[Exam_june_7_2018](https://github.com/FiloDerba/assignments/blob/master/exam_june_7_2018.ipynb)
+
+[Exam_student](https://github.com/FiloDerba/assignments/blob/master/Exam_student.ipynb)
